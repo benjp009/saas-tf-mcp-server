@@ -1,10 +1,10 @@
-# @saastf/mcp-server
+# @benjp009/saas-tf-mcp-server
 
 > **Get 2 FREE subdomains forever** with automatic DNS provisioning for your projects!
 
 MCP (Model Context Protocol) server for [saas.tf](https://saas.tf) - the easiest way to get free subdomains for your demos, side projects, and development environments directly through Claude Code and other LLM-powered development tools.
 
-[![npm version](https://badge.fury.io/js/%40saastf%2Fmcp-server.svg)](https://www.npmjs.com/package/@saastf/mcp-server)
+[![npm version](https://badge.fury.io/js/%40benjp009%2Fsaas-tf-mcp-server.svg)](https://www.npmjs.com/package/@benjp009/saas-tf-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ✨ Features
@@ -21,7 +21,7 @@ MCP (Model Context Protocol) server for [saas.tf](https://saas.tf) - the easiest
 ### Installation for Claude Code
 
 ```bash
-npm install -g @saastf/mcp-server
+npm install -g @benjp009/saas-tf-mcp-server
 ```
 
 Then add to your Claude Code MCP settings:
@@ -254,10 +254,10 @@ The server works with any MCP-compatible client:
 
 ```bash
 # Run the server directly
-npx @saastf/mcp-server
+npx @benjp009/saas-tf-mcp-server
 
 # Or install globally
-npm install -g @saastf/mcp-server
+npm install -g @benjp009/saas-tf-mcp-server
 saastf-mcp
 ```
 
@@ -306,7 +306,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 - **Website**: [https://saas.tf](https://saas.tf)
 - **GitHub**: [https://github.com/saas-tf/mcp-server](https://github.com/saas-tf/mcp-server)
-- **npm**: [https://www.npmjs.com/package/@saastf/mcp-server](https://www.npmjs.com/package/@saastf/mcp-server)
+- **npm**: [https://www.npmjs.com/package/@benjp009/saas-tf-mcp-server](https://www.npmjs.com/package/@benjp009/saas-tf-mcp-server)
 - **Issues**: [https://github.com/saas-tf/mcp-server/issues](https://github.com/saas-tf/mcp-server/issues)
 - **Support**: support@saas.tf
 

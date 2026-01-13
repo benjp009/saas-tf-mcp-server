@@ -1,5 +1,5 @@
 {
-  "name": "@saastf/mcp-server",
+  "name": "@benjp009/saas-tf-mcp-server",
   "version": "0.1.0",
   "description": "MCP server for saas.tf - Get 2 FREE subdomains forever with automatic DNS provisioning",
   "main": "dist/index.js",
@@ -33,10 +33,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/saas-tf/mcp-server.git"
+    "url": "https://github.com/benjp009/saas-tf-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/saas-tf/mcp-server/issues"
+    "url": "https://github.com/benjp009/saas-tf-mcp-server/issues"
   },
   "homepage": "https://saas.tf",
   "engines": {
